@@ -1,5 +1,7 @@
 --- !omap
 - contact:
-    id:       1
-    name:     Gleb Mazovetskiy
-    website:  http://glebm.blogspot.com
+    id:         1
+    name:       Gleb Mazovetskiy
+    website:    http://glebm.blogspot.com
+    age:        21
+    net_worth:  1_400_000

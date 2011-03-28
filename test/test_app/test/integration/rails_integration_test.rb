@@ -10,5 +10,6 @@ class RailsIntegrationTest < ActionController::IntegrationTest
   test "xls" do
     get '/contacts.xls'
     assert_response :success
+    puts response.body
   end
 end
